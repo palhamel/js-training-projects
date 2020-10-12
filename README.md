@@ -1,0 +1,1 @@
+### Projects training parts with JS
